@@ -1,0 +1,47 @@
+{
+  "sentences": [
+    {
+      "scene": 1,
+      "text": "Menara ini sudah miring delapan ratus tahun — tapi tak pernah roboh.",
+      "mp3": "scene-1.mp3",
+      "wav": "scene-1.wav",
+      "durationSec": 4.392
+    },
+    {
+      "scene": 2,
+      "text": "Tahun sebelas tujuh tiga, Pisa membangun menara lonceng lima puluh enam meter.",
+      "mp3": "scene-2.mp3",
+      "wav": "scene-2.wav",
+      "durationSec": 5.088
+    },
+    {
+      "scene": 3,
+      "text": "Fondasinya cuma tiga meter, di atas tanah rawa lunak seperti puding.",
+      "mp3": "scene-3.mp3",
+      "wav": "scene-3.wav",
+      "durationSec": 4.656
+    },
+    {
+      "scene": 4,
+      "text": "Baru lantai tiga, menara sudah miring ke selatan — tanahnya ambles perlahan.",
+      "mp3": "scene-4.mp3",
+      "wav": "scene-4.wav",
+      "durationSec": 5.184
+    },
+    {
+      "scene": 5,
+      "text": "Pekerja menambal sisi selatan lebih tinggi — hasilnya melengkung seperti pisang!",
+      "mp3": "scene-5.mp3",
+      "wav": "scene-5.wav",
+      "durationSec": 4.872
+    },
+    {
+      "scene": 6,
+      "text": "Perang menghentikannya seratus tahun — tanah memadat, dan miring itu membuat Pisa mendunia.",
+      "mp3": "scene-6.mp3",
+      "wav": "scene-6.wav",
+      "durationSec": 5.688
+    }
+  ],
+  "totalVoSec": 29.88
+}

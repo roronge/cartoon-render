@@ -1,0 +1,47 @@
+{
+  "sentences": [
+    {
+      "scene": 1,
+      "text": "Kapal raksasa ini beratnya ribuan ton, dari besi. Kok tidak tenggelam?",
+      "mp3": "scene-1.mp3",
+      "wav": "scene-1.wav",
+      "durationSec": 5.232
+    },
+    {
+      "scene": 2,
+      "text": "Lihat: paku besi langsung tenggelam! Besi padat lebih berat dari air.",
+      "mp3": "scene-2.mp3",
+      "wav": "scene-2.wav",
+      "durationSec": 5.448
+    },
+    {
+      "scene": 3,
+      "text": "Tapi mangkuk besi ini mengapung! Rahasianya pada bentuknya.",
+      "mp3": "scene-3.mp3",
+      "wav": "scene-3.wav",
+      "durationSec": 4.752
+    },
+    {
+      "scene": 4,
+      "text": "Lambung kapal berongga penuh udara, berat rata-ratanya lebih ringan dari air.",
+      "mp3": "scene-4.mp3",
+      "wav": "scene-4.wav",
+      "durationSec": 4.896
+    },
+    {
+      "scene": 5,
+      "text": "Tambah muatan, kapal makin dalam — air mendorong makin kuat: gaya apung Archimedes!",
+      "mp3": "scene-5.mp3",
+      "wav": "scene-5.wav",
+      "durationSec": 6.144
+    },
+    {
+      "scene": 6,
+      "text": "Kapal tak melawan air — ia menumpang dorongannya untuk berlayar.",
+      "mp3": "scene-6.mp3",
+      "wav": "scene-6.wav",
+      "durationSec": 4.32
+    }
+  ],
+  "totalVoSec": 30.792
+}
